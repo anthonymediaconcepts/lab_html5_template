@@ -1,0 +1,20 @@
+/* MAIN CSS */
+body {
+    font-family:Georgia;
+    font-size:16px;
+    font-style: normal;
+    font-weight: 300px;
+}
+
+#main {
+}
+
+nav ul, nav ol {
+    list-style: none;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+
+nav ul li, navl ol li {
+    display: inline-block;
+}
